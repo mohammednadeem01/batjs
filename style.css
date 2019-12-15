@@ -6,7 +6,7 @@
   
   body{
     font-family: sans-serif;
-    background: black;
+    background: rgb(255, 255, 255);
   }
   
   .input{
@@ -16,7 +16,7 @@
   
   input[type="submit"]{
     padding: 15px 30px;
-    background: whitesmoke;
+    background: wheat;
     border: none;
     border-radius: 10px;
     font-family: sans-serif;
@@ -28,7 +28,7 @@
     width: 600px;
     height: 55px;
     padding: 5px 10px;
-    background: whitesmoke;
+    background: wheat;
     border: none;
     border-radius: 10px;
     font-family: sans-serif;
@@ -38,7 +38,7 @@
   
   .card{
     width: 44%;
-    background: whitesmoke;
+    background: wheat;
     height: 20vh;
     margin: 50px auto;
     border-radius: 10px;
@@ -61,4 +61,7 @@
     text-align: center;
     margin:40px 0;
     font-size:20px;
+  }
+  .heading{
+    text-align: center;
   }
