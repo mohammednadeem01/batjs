@@ -5,8 +5,8 @@
   }
   
   body{
-    font-family: "Nunito",sans-serif;
-    background: rgb(51, 49, 49);
+    font-family: sans-serif;
+    background: black;
   }
   
   .input{
@@ -16,10 +16,10 @@
   
   input[type="submit"]{
     padding: 15px 30px;
-    background: cornsilk;
+    background: whitesmoke;
     border: none;
     border-radius: 10px;
-    font-family: "Nunito",sans-serif;
+    font-family: sans-serif;
     font-weight:bold;
     font-size: 20px;
   }
@@ -28,17 +28,17 @@
     width: 600px;
     height: 55px;
     padding: 5px 10px;
-    background: cornsilk;
+    background: whitesmoke;
     border: none;
     border-radius: 10px;
-    font-family: "Nunito",sans-serif;
+    font-family: sans-serif;
     font-weight:bold;
     font-size: 20px;
   }
   
   .card{
     width: 44%;
-    background: cornsilk;
+    background: whitesmoke;
     height: 20vh;
     margin: 50px auto;
     border-radius: 10px;
